@@ -37,3 +37,6 @@ Identification of high-value customers to drive business strategy.
 
 ### Disclaimer:
 This data has been used from  Microsoft for informational purposes only as an aid to illustrate a concept of analytics . These samples are provided “as is” without warranty of any kind.
+
+🚀 **Feedback and contributions welcome!**  
+🔗 **Connect on [LinkedIn](https://www.linkedin.com/in/nadiya-kost/).**
